@@ -1,0 +1,62 @@
+table,column,min,max
+customer,c_custkey,1,1500000
+customer,c_name,Customer#000000001,Customer#001500000
+customer,c_address,"0009D4f,ujP49LJ0dcv  2EY",ZzzwM4hVqs9AjWuEqYiD4hsZan11MjZ
+customer,c_nationkey,0,24
+customer,c_phone,10-100-106-1617,34-999-998-5763
+customer,c_acctbal,-999.99,9999.99
+customer,c_mktsegment,AUTOMOBILE,MACHINERY 
+customer,c_comment, about the accounts. always even deposits haggle blithely bold deposits.,zzle thinly. blithely final pinto 
+lineitem,l_orderkey,1,60000000
+lineitem,l_partkey,1,2000000
+lineitem,l_suppkey,1,100000
+lineitem,l_linenumber,1,7
+lineitem,l_quantity,1.00,50.00
+lineitem,l_extendedprice,900.91,104949.50
+lineitem,l_discount,0.00,0.10
+lineitem,l_tax,0.00,0.08
+lineitem,l_returnflag,A,R
+lineitem,l_linestatus,F,O
+lineitem,l_shipdate,1992-01-02,1998-12-01
+lineitem,l_commitdate,1992-01-31,1998-10-31
+lineitem,l_receiptdate,1992-01-03,1998-12-31
+lineitem,l_shipinstruct,COLLECT COD              ,TAKE BACK RETURN         
+lineitem,l_shipmode,AIR       ,TRUCK     
+lineitem,l_comment, about the,zzle within the special requests. 
+nation,n_nationkey,0,24
+nation,n_name,ALGERIA                  ,VIETNAM                  
+nation,n_regionkey,0,4
+nation,n_comment,al foxes promise slyly according to the regular accounts. bold requests alon,y final packages. slow foxes cajole quickly. quickly silent platelets breach ironic accounts. unusual pinto be
+orders,o_orderkey,1,60000000
+orders,o_custkey,1,1499999
+orders,o_orderstatus,F,P
+orders,o_totalprice,838.05,558822.56
+orders,o_orderdate,1992-01-01,1998-08-02
+orders,o_orderpriority,1-URGENT       ,5-LOW          
+orders,o_clerk,Clerk#000000001,Clerk#000010000
+orders,o_shippriority,0,0
+orders,o_comment, about the accounts,zzle whithout the carefully p
+part,p_partkey,1,2000000
+part,p_name,almond antique aquamarine blanched floral,yellow white wheat peach aquamarine
+part,p_mfgr,Manufacturer#1           ,Manufacturer#5           
+part,p_brand,Brand#11  ,Brand#55  
+part,p_type,ECONOMY ANODIZED BRASS,STANDARD POLISHED TIN
+part,p_size,1,50
+part,p_container,JUMBO BAG ,WRAP PKG  
+part,p_retailprice,900.91,2098.99
+part,p_comment, abou,zzle thin
+partsupp,ps_partkey,1,2000000
+partsupp,ps_suppkey,1,100000
+partsupp,ps_availqty,1,9999
+partsupp,ps_supplycost,1.00,1000.00
+partsupp,ps_comment, about the accounts-- accounts detect around the furiously pending frays. excuses cajole about the even deposits. blithely special deposits cajole about,zzle whithout the blithely special realms. quickly stealthy foxes affix according to the fi
+region,r_regionkey,0,4
+region,r_name,AFRICA                   ,MIDDLE EAST              
+region,r_comment,ges. thinly even pinto beans ca,uickly special accounts cajole carefully blithely close requests. carefully final asymptotes haggle furiousl
+supplier,s_suppkey,1,100000
+supplier,s_name,Supplier#000000001       ,Supplier#000100000       
+supplier,s_address,001Sv4ZACDusc QTP70Px,"zzZz8BaC0wy,dI0TS Qy0kaBzre7uV79sWU"
+supplier,s_nationkey,0,24
+supplier,s_phone,10-100-166-6237,34-998-900-4911
+supplier,s_acctbal,-999.92,9999.93
+supplier,s_comment, about the accounts. furiously regular packa,zzle. slyly regular packages across the enticing accounts doze carefully across the furiously
